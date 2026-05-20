@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MartinHeilemann.github.io/testalfolio/sitemap.xml
+Sitemap: https://martinheilemann.github.io/testalfolio/sitemap.xml
